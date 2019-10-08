@@ -1,1 +1,1 @@
-This is the sum of my work from school
+Simple Python Django's Tutorial
