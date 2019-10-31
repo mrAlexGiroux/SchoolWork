@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="dessin_vectoriel/src"/>
+	<classpathentry kind="lib" path="dessin_vectoriel/lib/apiguardian-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="dessin_vectoriel/lib/batik-all-1.10.jar"/>
+	<classpathentry kind="lib" path="dessin_vectoriel/lib/junit-jupiter-api-5.5.0-M1.jar"/>
+	<classpathentry kind="lib" path="dessin_vectoriel/lib/junit-platform-commons-1.5.0-M1.jar"/>
+	<classpathentry kind="lib" path="dessin_vectoriel/lib/opentest4j-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
